@@ -1,6 +1,6 @@
 /* 
     DESCRIÇÃO: Calcula a conversão do número inserido pelo usuário de reais para dólar.
-    AUTORA: Sarah e Evelyn
+    AUTORA: Sarah
     DATA: 12/04/2023 
 */
 
