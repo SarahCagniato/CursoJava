@@ -11,9 +11,10 @@ import java.util.Scanner;
 public class exercicio7 {
   public static void main(String[] args) {
     try (Scanner input = new Scanner(System.in)) {
+        // pede um número inteiro positivo entre 94 e 456
       System.out.print("Digite um número inteiro positivo entre 94 e 456: ");
       int numero = input.nextInt();
-
+        //diz se o usuario acertou o errou o numero escolhido
       if(numero >= 94 && numero <= 456) {
         System.out.println("Acertou!");
       } else {
