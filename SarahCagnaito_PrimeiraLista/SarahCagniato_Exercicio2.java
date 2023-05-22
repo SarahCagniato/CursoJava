@@ -1,7 +1,7 @@
 /* 
     DESCRIÇÃO: Algoritmo que recebe 4 números, calcule o  quadrado de
     cada um, some todos e mostre o resultado
-    AUTORA: Sarah e Evelyn
+    AUTORA: Sarah
     DATA: 12/04/2023 
 */
 
