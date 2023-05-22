@@ -1,6 +1,6 @@
 /* 
     DESCRIÇÃO: Algoritmo que lê 4 números e some
-    AUTORA: Sarah e Evelyn
+    AUTORA: Sarah
     DATA: 12/04/2023 
 */
 
