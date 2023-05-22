@@ -1,6 +1,6 @@
 /* 
     DESCRIÇÃO: Mostra a faixa etária do usuário baseado na sua idade
-    AUTORA: Sarah e Evelyn
+    AUTORA: Sarah
     DATA: 12/04/2023 
 */
 
