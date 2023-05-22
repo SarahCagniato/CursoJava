@@ -1,6 +1,6 @@
 /* 
     DESCRIÇÃO: Calcula o perímetro de um círculo
-    AUTORA: Sarah e Evelyn
+    AUTORA: Sarah
     DATA: 12/04/2023 
 */
 
