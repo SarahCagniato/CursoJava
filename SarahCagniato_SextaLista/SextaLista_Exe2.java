@@ -8,12 +8,12 @@ public class SextaLista_Exe2 {
 
     public static void main(String[] args) {
         
-        cinto haha = new cinto("nome");
-        haha.abrir();
-        haha.solta();
-        haha.ajustando();
-        haha.apertar();
-        System.out.println(haha.nome_marca());
+        cinto criacao = new cinto("nome");
+        criacao.abrir();
+        criacao.solta();
+        criacao.ajustando();
+        criacao.apertar();
+        System.out.println(criacao.nome_marca());
     
     }
 }
